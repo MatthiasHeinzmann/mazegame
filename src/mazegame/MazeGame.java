@@ -14,7 +14,7 @@ public class MazeGame {
 		builder.buildMaze();
 		
 		// build rooms
-		for (int i = 0; i < numberOfRooms; i++)dfdfd
+		for (int i = 0; i < numberOfRooms; i++)
 			builder.buildRoom(i);
 	
 		// build doors and open borders
